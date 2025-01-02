@@ -34,4 +34,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-riaz37-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riaz37/)](https://www.linkedin.com/in/riaz37) [![Facebook Badge](https://img.shields.io/badge/-@rafi302001-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rafi302001)](https://www.facebook.com/rafi302001) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=vercel&logoColor=white&link=https://riaz37.vercel.app)](https://riaz37.vercel.app)
+[![Linkedin Badge](https://img.shields.io/badge/-riaz37-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riaz37/)](https://www.linkedin.com/in/riaz37) [![Facebook Badge](https://img.shields.io/badge/-@rafi302001-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rafi302001)](https://www.facebook.com/rafi302001) 
